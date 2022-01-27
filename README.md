@@ -1,4 +1,4 @@
-# nationalpark-trail-dashboard
+# National Parks and Trails Dashboard
 
 
 ## Introduction
